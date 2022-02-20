@@ -56,7 +56,7 @@ class ProfileCard extends StatelessWidget {
               height: 10.0,
             ),
             Text(
-              'Heet Gutka',
+              'Jay Parmar',
               style: TextStyle(
                 color: Colors.amberAccent[200],
                 letterSpacing: 2.0,
@@ -99,7 +99,7 @@ class ProfileCard extends StatelessWidget {
                   width: 10.0,
                 ),
                 Text(
-                  'heetgutka14@gmail.com',
+                  'techj92@gmail.com',
                   style: TextStyle(
                     color: Colors.grey[400],
                     fontSize: 18.0,
